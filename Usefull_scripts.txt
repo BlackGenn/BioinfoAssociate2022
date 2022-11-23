@@ -1,0 +1,7 @@
+## Install fastp into a new env
+
+conda create --name fastp-env -c bioconda fastp
+
+## Install spades
+
+conda create --name spades-env -c bioconda spades
